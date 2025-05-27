@@ -20,8 +20,8 @@ from telegram.constants import ChatMemberStatus, ChatType
 from PIL import Image
 import dotenv
 
-TOKEN = "8072368645:AAEQ38wkKj7dWUpErRzaGPyL6qg3dsMGZM0" 
-BOT_USERNAME = "Wh_SafeguardUXRobot"
+TOKEN = "7686229831:AAFQAXHeIitaz62FVqmg3mIBZqjsJIdppUI" 
+BOT_USERNAME = "VoltrixVerifyBot"
 WELCOME_SENT = set()    
 Safeguard_Image = Image.open('assets/safeguard1.jpg')
 verify_btn = InlineKeyboardButton(text="VERIFY", url="https://t.me/@whalesharka")
