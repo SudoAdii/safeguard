@@ -21,8 +21,8 @@ import dotenv
 
 
 
-TOKEN = "7922710526:AAFiKsDMt_Rc18I0bFreWT32mCJvPTpTnVc"
-CHANNEL_USERNAME = "@whalesharka3"
+TOKEN = "7618840261:AAFCo4yi50RG9PTgVFjyxJzNg8RBl-OFjBA"
+CHANNEL_USERNAME = "@VoltrixRugbot"
 
 Background_Image = Image.open('assets/background.JPG')
 BackgroundGuard_Image = Image.open('assets/Nyrox.JPG')
